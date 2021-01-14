@@ -1,0 +1,66 @@
+.my-card
+{
+    margin-top: 3px;
+    margin-bottom: 30px;
+    height:60px !important;
+}
+.content{
+    max-width: 70%;
+    margin: auto;
+}
+#att{
+    padding-left: 0%;
+}
+#random_decimal{
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    border: none;
+    color: white;
+    min-width: 10em;
+    transition: .2s;
+    font-size: 18px;
+    margin: 4px 2px;
+    opacity: 0.9;
+    padding: 16px 32px;
+}
+
+button:hover{
+    opacity: 1}
+
+.jumbotron{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: auto;
+}
+
+p{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.logo{
+    font-family: 'Changa', sans-serif;
+    font-size: x-large;
+}
+
+.nav-link{
+    font-family: 'Changa', sans-serif;
+    font-size: large;
+}
+
+h2{
+    font-family: 'Secular One', sans-serif;
+}
+
+h4{
+    font-family: 'Noto Sans JP', sans-serif
+}
+
+canvas{
+    display: block;
+    margin: 0 auto;
+
+}
