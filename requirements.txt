@@ -1,0 +1,75 @@
+alembic==1.4.3
+appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
+arrow==0.17.0
+astroid @ file:///opt/concourse/worker/volumes/live/21fd14a9-2a7e-484b-7394-5a9912cdcf80/volume/astroid_1592498459180/work
+backcall==0.2.0
+bcrypt==3.2.0
+certifi==2020.6.20
+cffi==1.14.3
+chardet==3.0.4
+click==7.1.2
+clipboard==0.0.4
+decorator==4.4.2
+dnspython==2.0.0
+email-validator==1.1.1
+Flask==1.1.2
+Flask-Bcrypt==0.7.1
+Flask-Dance==3.0.0
+Flask-Login==0.5.0
+Flask-Migrate==2.5.3
+Flask-SocketIO==4.3.1
+Flask-SQLAlchemy==2.4.4
+Flask-WTF==0.14.3
+future==0.18.2
+gunicorn==20.0.4
+idna==2.10
+ipykernel @ file:///opt/concourse/worker/volumes/live/88f541d3-5a27-498f-7391-f2e50ca36560/volume/ipykernel_1596206680118/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/26969e8f-c9f7-42dc-6ffb-b3effd424c49/volume/ipython_1604101242376/work
+ipython-genutils==0.2.0
+iso8601==0.1.13
+isort @ file:///tmp/build/80754af9/isort_1602603989581/work
+itsdangerous==1.1.0
+jedi @ file:///opt/concourse/worker/volumes/live/c63c70ef-654a-4d26-6b78-37aef096f225/volume/jedi_1596490811751/work
+Jinja2==2.11.2
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+lazy-object-proxy==1.4.3
+Mako==1.1.3
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
+mccabe==0.6.1
+numpy==1.19.2
+oauthlib==3.1.0
+pandas==1.1.3
+parso==0.7.0
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1605560620615/work/dist/ptyprocess-0.6.0-py2.py3-none-any.whl
+pycparser==2.20
+Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
+pylint @ file:///opt/concourse/worker/volumes/live/ed0164b6-bcc7-4f6b-7dd4-ad89660b5dcb/volume/pylint_1598624018129/work
+pyperclip==1.8.1
+pyserial==3.4
+python-dateutil==2.8.1
+python-editor==1.0.4
+python-engineio==3.13.2
+python-socketio==4.6.0
+pytz==2020.1
+PyYAML==5.3.1
+pyzmq==19.0.2
+requests==2.24.0
+requests-oauthlib==1.3.0
+serial==0.0.97
+six==1.15.0
+SQLAlchemy==1.3.20
+telnetlib3==1.0.3
+times==0.7
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tornado==6.0.4
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+urllib3==1.25.11
+URLObject==2.4.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+Werkzeug==1.0.1
+wrapt==1.11.2
+WTForms==2.3.3
